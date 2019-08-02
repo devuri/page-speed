@@ -6,7 +6,8 @@
 `composer require calderawp/speed`
 
 ## or Add composer.json with the following 
-`{
+```
+{
 
   "minimum-stability": "dev",
   "prefer-stable": true,
@@ -14,7 +15,7 @@
         "calderawp/page-speed": "*"
     }
 }
-`
+```
 
 ## Usage
 Get API key and such https://developers.google.com/speed/docs/insights/v1/getting_started
